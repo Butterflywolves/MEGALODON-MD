@@ -8,7 +8,8 @@
     "owner-verification": "herokutruem@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {MEGALODON~MD~6JdiBR6Q#jRZ6hlsEwudNdcpTjC93bDG1enjKZQACmhDFctUZnHw}
+
         "description": "Put your SESSION_ID here. Make sure it starts with MEGALODON~MD~  or get session id from here,  https://meg-lodon-session.onrender.com/pair",
         "value":"",
         "required": true
@@ -22,9 +23,9 @@
       },
     
  
-    "STICKER_NAME": {
+    "STICKER_NAME": {~princess_𝑲𝒊𝒂𝒏𝒂
       "description": "type your sticker pack name.",
-      "required": false,
+      "required": true,
       "value": "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃"
   
     },
@@ -32,7 +33,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
