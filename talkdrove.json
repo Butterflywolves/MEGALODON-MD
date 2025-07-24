@@ -8,10 +8,9 @@
     "owner-verification": "herokutruem@gmail.com",
   
     "env": {
-      "SESSION_ID": {MEGALODON~MD~6JdiBR6Q#jRZ6hlsEwudNdcpTjC93bDG1enjKZQACmhDFctUZnHw}
+      "SESSION_ID": {
 
-        "description": "Put your SESSION_ID here. Make sure it starts with MEGALODON~MD~  or get session id from here,  https://meg-lodon-session.onrender.com/pair",
-        "value":"",
+        "description": "MEGALODON~MD~6JdiBR6Q#jRZ6hlsEwudNdcpTjC93bDG1enjKZQACmhDFctUZnHw"
         "required": true
         
       },
