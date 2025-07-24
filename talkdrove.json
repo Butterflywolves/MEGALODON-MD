@@ -22,8 +22,8 @@
       },
     
  
-    "STICKER_NAME": {~princess_𝑲𝒊𝒂𝒏𝒂
-      "description": "type your sticker pack name.",
+    "STICKER_NAME": {
+      "description": "~princess_𝑲𝒊𝒂𝒏𝒂",
       "required": true,
       "value": "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃"
   
